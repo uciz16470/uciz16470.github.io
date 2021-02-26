@@ -4,6 +4,16 @@
 ## HELLO
 早安，我想吃早餐
 
+```c
+#include <stdio.h>
+int main()
+{
+  printf("Hello,world!");
+  return 0;
+}
+```
+
+
 ## 興趣
 放假，吃飯，睡覺
 
